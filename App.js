@@ -5,7 +5,7 @@ import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hey!</Text>
+      <Text>Hey!!</Text>
       <StatusBar style="auto" />
     </View>
   );
